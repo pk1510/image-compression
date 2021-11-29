@@ -1,5 +1,6 @@
 # image-compression
 This repository contains the implementation of a JPEG-like algorithm for the task of image compression. 
+
 The algorithm consists of the following parts:
 - Converting the image from RGB to YCbCr format
 - Splitting the image into patches and computing 2-D DCT2
